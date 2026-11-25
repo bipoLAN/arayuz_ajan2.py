@@ -1,5 +1,3 @@
-cd ~/cti-ajan
-
 cat << 'EOF' > requirements.txt
 httpx
 EOF
